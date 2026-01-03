@@ -1,7 +1,7 @@
 # ROOTFS + Lightweight Docker Alternative
-a collection of rootfs (see releases)
+This repository has a collection of rootfs (see releases, will update them every months)
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 Moreover, this also contains a custom lightweight alternative to Docker.
 
