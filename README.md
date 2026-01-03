@@ -1,4 +1,4 @@
-# rootfs
+# rootfs + lightweight docker alternative
 a collection of rootfs (see releases)
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
