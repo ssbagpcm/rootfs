@@ -5,11 +5,11 @@ This repository has a collection of rootfs (see releases, will update them every
 
 Moreover, this also contains a custom lightweight alternative to Docker.
 
-To discover it, clone the repo, and then create the files by doing : `python main.py setup` (it will install evrything you want)
+To discover it, clone the repo, and then create the files by doing : `python boxer.py setup --install` (it will install evrything you want)
 
 Then you can see some commands by doing :
 
-`python main.py help`
+`boxer help`
 
 This is isolated, meaning that you can remove everything on the container, and your host **WILL NOT** get damaged by it. 
 Features : 
